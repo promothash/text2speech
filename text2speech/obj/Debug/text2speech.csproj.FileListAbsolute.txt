@@ -1,0 +1,10 @@
+D:\RND\text2speech\text2speech\bin\Debug\text2speech.exe.config
+D:\RND\text2speech\text2speech\bin\Debug\text2speech.exe
+D:\RND\text2speech\text2speech\bin\Debug\text2speech.pdb
+D:\RND\text2speech\text2speech\obj\Debug\text2speech.csprojAssemblyReference.cache
+D:\RND\text2speech\text2speech\obj\Debug\text2speech.Form1.resources
+D:\RND\text2speech\text2speech\obj\Debug\text2speech.Properties.Resources.resources
+D:\RND\text2speech\text2speech\obj\Debug\text2speech.csproj.GenerateResource.cache
+D:\RND\text2speech\text2speech\obj\Debug\text2speech.csproj.CoreCompileInputs.cache
+D:\RND\text2speech\text2speech\obj\Debug\text2speech.exe
+D:\RND\text2speech\text2speech\obj\Debug\text2speech.pdb
